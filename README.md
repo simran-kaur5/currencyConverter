@@ -11,5 +11,4 @@ A simple and responsive Currency Converter web app built with HTML, CSS, and Jav
 HTML, CSS, JavaScript
 
 ## How to Run
-1. Clone the repo: `git clone https://github.com/your-username/currency-converter.git`
-2. Open `index.html` in your browser
+1. Run `https://simran-kaur5.github.io/currencyConverter/` in your browser
